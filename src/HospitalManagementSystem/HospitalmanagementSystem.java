@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.Scanner;
 
 public class HospitalmanagementSystem {
-    private static final String url="jdbc:mysql://127.0.0.1:3306/?user=root";
+    private static final String url="jdbc:mysql://127.0.0.1:3306/hospital";
     private static final String username="root";
     private static final String password="En+erT@!nMenT@M5";
 
